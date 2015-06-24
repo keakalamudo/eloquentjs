@@ -1,0 +1,5 @@
+"Type coercion"
+When an operator is applied to the "wrong" type of value, Javascript will quietly convert that value to the type it wants based on a set of rules 
+that often aren't what you want or expect. 
+
+
